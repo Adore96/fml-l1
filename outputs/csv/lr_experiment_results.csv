@@ -1,0 +1,10 @@
+Experiment,Accuracy,ROC-AUC,F1,Num Features
+Base / standard scaling,0.7004,0.7841,0.6897,6
+Base / balanced,0.7074,0.7841,0.6911,6
+Base / SMOTE,0.7074,0.7839,0.6911,6
+Base / no scaling,0.7018,0.7838,0.6898,6
+Log features / balanced,0.706,0.7828,0.6945,9
+All features / L1 / balanced,0.7087,0.7824,0.6991,12
+All features / low C,0.7046,0.782,0.6987,12
+All features / balanced,0.7087,0.7812,0.7,12
+All features / high C,0.7087,0.781,0.6974,12
