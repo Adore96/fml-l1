@@ -1,0 +1,2 @@
+Algorithm,Accuracy,Precision,Recall,F1,ROC_AUC,Best_Params
+Random Forest,0.699,0.7315,0.6458,0.686,0.7798,"{'max_depth': 5, 'max_features': 'sqrt', 'min_samples_split': 10, 'n_estimators': 300}"
