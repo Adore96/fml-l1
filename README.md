@@ -1,6 +1,6 @@
-# Next-30-Day Purchase Prediction (Online Retail)
+# Next-90-Day Purchase Prediction (Online Retail)
 
-Predict whether a customer will make a purchase within 30 days using the UCI Online Retail dataset.
+Predict whether a customer will make a purchase within 90 days using the UCI Online Retail dataset.
 
 ## Dataset Overview
 
