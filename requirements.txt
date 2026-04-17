@@ -1,3 +1,4 @@
+Used python 3.14 in developments
 
 matplotlib
 
